@@ -1,0 +1,65 @@
+
+body{
+background-image:url(kakuma.jpg) grey;background-size: cover;
+margin-left: 40px;
+margin-right: 40px;}
+h1{border: 2px solid;
+	border-color: blue;
+	border-width: 10px;
+	border-radius: 18px;
+	background-color: grey;
+	text-align: center;
+	color: green;
+	font-style: italic;
+	padding-top: 20px;
+}
+ul li{
+font-family: algerian;
+font-size: 25px;
+color: orange;}
+h2{
+background: rgb(180,180,180);
+color: hsl(0,20%,50%;)}
+a{
+	border: 2px solid;
+    border-color: blue;
+border-width: 20px;
+border-radius: 25px;
+margin-left: 10px;
+margin-right: 10px;
+font-style: italic;
+
+}
+ul li{
+background-color: grey;
+background-size: 20px;}
+h2{
+border: 3px dotted;
+border-color: blue;
+border-width: 12px;
+border-radius: 20px;
+background-color: orange;
+text-align: center;
+color: red;
+font-style: italic;
+padding-top: 20px;}
+p{
+font-family: algerian;
+border: 3px dotted;
+font-style: italic;
+background-color: blue;
+background-size: 25px;
+text-align: center;
+padding-top: 25px;
+color: green;}
+h3{
+border: 4px dotted;
+font-style: italic;
+font-family: algerian;
+background-color: green;
+text-align: center;
+padding-inline: 25px;
+color: grey;
+border-radius: 25px;
+border-width: 10px;}
+
